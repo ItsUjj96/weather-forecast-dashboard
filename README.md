@@ -7,12 +7,12 @@
 
 **App Description:**
 This is a simple weather app.
-I have consumed and API which is providing some like temperature, humidity, wind direction, etc.
-You can search for any name and it'll display all weather related details.
+I have consumed and API which is providing values for temperature, humidity, wind direction, etc.
+You can search for any city name and it'll display all weather related details.
 
 **API details:**
 For this application, I have used **Weatherstack** API. 
-You can read about it here: ** https://weatherstack.com/documentation**.
+You can read more about it here: ** https://weatherstack.com/documentation**.
 **It is free to use (250 Calls / month).** 
 The use case is very simple. Please refer the below screenshot.
 ![Screenshot 2023-07-11 182834](https://github.com/ItsUjj96/weather-forecast-dashboard/assets/77408216/0bff253e-2847-4454-9afa-e0830cf5dc40)
