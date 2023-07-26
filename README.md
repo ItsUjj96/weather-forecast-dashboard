@@ -2,8 +2,8 @@
 **Get started**
 
 ### `git clone`
-### `npm weather-forecast-dashboard`
-### `cd install`
+### `cd weather-forecast-dashboard`
+### `npm install`
 ### `npm start`
 
 **App Description:**
